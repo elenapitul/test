@@ -18,8 +18,8 @@ namespace MyStrings
                 Console.Write(myString[i]);
             }
 
-            string aString = "My awesome string";
-            Console.WriteLine("The length of this awesome string is " + aString.Length);
+            //string aString = "My awesome string";
+            //Console.WriteLine("The length of this awesome string is " + aString.Length);
 
             string s = string.Empty;
             string b = s;
